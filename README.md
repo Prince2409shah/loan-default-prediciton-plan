@@ -130,9 +130,7 @@ streamlit run app.py
 - Dependency and Python version management
 --- 
 ## 👤 Author
-```
-Prince Shah
-Aspiring Machine Learning Engineer
+Prince Shah.
+Aspiring Machine Learning Engineer.
 🔗 GitHub: https://github.com/Prince2409shah 
-```
 ---
