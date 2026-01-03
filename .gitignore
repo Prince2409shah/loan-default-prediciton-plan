@@ -211,5 +211,7 @@ anaconda_projects/
 venv/
 # Large datasets
 application_train.csv
+application_test.csv
+
 __pycache__/
 *.pyc
