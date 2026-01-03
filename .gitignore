@@ -209,5 +209,7 @@ __marimo__/
 .ipynb_checkpoints/
 anaconda_projects/ 
 venv/
+# Large datasets
+application_train.csv
 __pycache__/
 *.pyc
