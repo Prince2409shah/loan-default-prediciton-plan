@@ -13,7 +13,7 @@ https://prince-loan-default-prediction.streamlit.app/
 
 ## 🖥️ Application Screenshots
 ### 1️⃣ Low Loan Default
-![Low Loan Default](src/low.png)
+![Low Loan Default](src/Low.png)
 
 ### 2️⃣ High Loan Default
 ![High Loan Default](src/high.png)
@@ -129,7 +129,7 @@ streamlit run app.py
 - Production-safe deployment using Streamlit
 - Dependency and Python version management
 --- 
-👤 Author
+## 👤 Author
 Prince Shah
 Aspiring Machine Learning Engineer
 🔗 GitHub: https://github.com/Prince2409shah 
