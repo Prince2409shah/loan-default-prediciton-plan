@@ -18,8 +18,8 @@ https://prince-loan-default-prediction.streamlit.app/
 ### 2️⃣ High Loan Default
 ![High Loan Default](src/high.png)
 
-### 3️⃣ Median Loan Default
-![Median Loan Default](src/Medium.png)
+### 3️⃣ Medium Loan Default
+![Medium Loan Default](src/Medium.png)
 ---
 ## 🧠 Problem Statement
 Loan default prediction is a critical task for financial institutions.  
@@ -130,7 +130,9 @@ streamlit run app.py
 - Dependency and Python version management
 --- 
 ## 👤 Author
+```
 Prince Shah
 Aspiring Machine Learning Engineer
 🔗 GitHub: https://github.com/Prince2409shah 
+```
 ---
